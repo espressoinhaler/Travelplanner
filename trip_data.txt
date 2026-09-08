@@ -1,0 +1,12 @@
+Pune->Mumbai|People:2|Days:5|Rs.74400
+Pune->Mumbai|People:2|Days:5|Rs.33400
+Mumbai->Goa|People:2|Days:5|Rs.40600
+Mumbai->Goa|People:2|Days:2|Rs.19600
+Mumbai->Goa|People:2|Days:2|Rs.19600
+Mumbai->Goa|People:2|Days:2|Rs.19600
+Mumbai->Goa|People:2|Days:2|Rs.19600
+Mumbai->Goa|People:2|Days:2|Rs.26800
+Mumbai->Goa|People:2|Days:2|Rs.26800
+Mumbai->Goa|People:2|Days:2|Rs.26800
+Mumbai->Pune|People:5|Days:2|Rs.35500
+Mumbai->Manali|People:2|Days:7|Rs.89000
